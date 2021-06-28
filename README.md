@@ -17,6 +17,6 @@
 - 📫 How to reach me with email: israfil3019@gmail.com
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React )
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+- 🌱 I’m currently learning backend development (Django Stack)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
