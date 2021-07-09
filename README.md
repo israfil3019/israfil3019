@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React )
 - 🌱 I’m currently learning backend development (Django Stack)
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything that you want to learn<a href="mailto:isrfail3019@gmail.com" target="_blank">
+- 💬 Ask me about anything that you want to learn  ⚡ <a href="mailto:isrfail3019@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:israfil3019@gmail.com">
 </a>
 
